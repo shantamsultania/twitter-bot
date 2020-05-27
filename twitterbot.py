@@ -19,6 +19,7 @@ print(user.name)
 def retweet():
     # use any keyword you wana retweet like i used kotlin
     Search = ('kotlin')
+    # i am useing it for 5 retweets you can use it for as much tweets you want
     n = 5
     for tweet in tweepy.Cursor(api.search,Search).items(n):
         try:
