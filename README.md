@@ -1,4 +1,5 @@
-# twitter-bot
+# Twitter Retweet Bot by shatam
+
 This is a twitter Bot which can be used to retweet tweets about anything like.
 from android to India anything for this, you just require some basics steps
 
